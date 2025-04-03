@@ -58,6 +58,7 @@ a block in the end: ```if __name__ == ‘__main__’```.
 * You should not leave in your directory any other file than those explicitly specified
 by the exercise instructions. It is recommended that you modify your .gitignore to
 avoid accidents.
+* Your solution must be in your GIT repository for evaluation. Always push only to the develop branch! The master branch will be ignored. Work in the src directory.
 * When you need to get precise output in your programs, it is forbidden to display a
 precalculated output instead of performing the exercise correctly.
 * Have a question? Ask your neighbor on the right. Otherwise, try with your neighbor

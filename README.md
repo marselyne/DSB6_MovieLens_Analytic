@@ -165,6 +165,8 @@ report. Do not forget to test them too
 * Improve the tests. Check the correctness of your calculations as well. Precalculate
 manually some results and metrics and check if the methods return the correct
 information if you give them the specific input
+* Develop your report so that it tells a story in an interactive, question-and-answer style.
+Make it intriguing and emotional, as well as interesting and easy to read.
 
 ## Chapter VI
 
